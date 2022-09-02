@@ -1,0 +1,98 @@
+TOMASO POGGIO	 Betweenness: 410373.54	 in_degree: 48	 
+Afiliation: McDermott Professor in Brain Sciences, MIT 
+Most cited paper: Networks for approximation and learning. Cited by 4600 in 1990 
+GS profile: WgAGy7wAAAAJ 
+Home page: http://cbcl.mit.edu/ 
+Kw: machine learning, learning theory, ai, neuroscience, computational vision 
+
+Christof Koch	 Betweenness: 228938.76	 in_degree: 33	 
+Afiliation: Chief Scientist and President 
+Most cited paper: A model of saliency-based visual attention for rapid scene analysis. Cited by 13059 in 1998 
+GS profile: JYt9T_sAAAAJ 
+Home page: http://www.alleninstitute.org/our-institute/our-team/profiles/christof-koch/ 
+Kw: neuroscience, computer science 
+
+Pietro Perona	 Betweenness: 215036.05	 in_degree: 36	 
+Afiliation: California Institute of Technology 
+Most cited paper: Microsoft coco: Common objects in context. Cited by 22364 in 2014 
+GS profile: j29kMCwAAAAJ 
+Home page: http://vision.caltech.edu/pietroperona.htm 
+Kw: computer vision, machine learning, applied mathematics, neuroscience, psychology 
+
+robert desimone	 Betweenness: 173438.15	 in_degree: 31	 
+Afiliation: massachusetts institute of technology 
+Most cited paper: Neural mechanisms of selective visual attention. Cited by 9507 in 1995 
+GS profile: X4ajv-sAAAAJ 
+Home page: ? 
+Kw: neuroscience 
+
+Ryan M. Rifkin	 Betweenness: 155056.79	 in_degree: 18	 
+Afiliation: MIT, Google 
+Most cited paper: Prediction of central nervous system embryonal tumour outcome based on gene expression. Cited by 2687 in 2002 
+GS profile: qbjHRA8AAAAJ 
+Home page: ? 
+Kw: machine learning, signal processing, auditory models, optimization. 
+
+Joshua B. Tenenbaum	 Betweenness: 120152.30	 in_degree: 39	 
+Afiliation: MIT 
+Most cited paper: A global geometric framework for nonlinear dimensionality reduction. Cited by 15174 in 2000 
+GS profile: rRJ9wTJMUB8C 
+Home page: http://web.mit.edu/cocosci/josh.html 
+Kw: cognitive science, artificial intelligence, machine learning, computational neuroscience, cognitive psychology 
+
+Stefanie Tellex	 Betweenness: 116239.31	 in_degree: 33	 
+Afiliation: Brown University 
+Most cited paper: Understanding natural language commands for robotic navigation and mobile manipulation. Cited by 690 in 2011 
+GS profile: Pd8-ju0AAAAJ 
+Home page: http://h2.cs.brown.edu/ 
+Kw: robotics, natural language, artificial intelligence 
+
+Earl K. Miller	 Betweenness: 114949.58	 in_degree: 24	 
+Afiliation: Picower Professor of Neuroscience, Massachusetts Institute of Technology 
+Most cited paper: An integrative theory of prefrontal cortex function. Cited by 13506 in 2001 
+GS profile: hv8jgk8AAAAJ 
+Home page: http://ekmillerlab.mit.edu/ 
+Kw: neuroscience, cognitive science 
+
+Vikash K. Mansinghka	 Betweenness: 101140.64	 in_degree: 22	 
+Afiliation: MIT, Probabilistic Computing Project 
+Most cited paper: Church: a language for generative models. Cited by 860 in 2012 
+GS profile: -Txt8vsAAAAJ 
+Home page: http://probcomp.org/ 
+Kw: artificial intelligence, statistics, probabilistic programming, machine learning 
+
+Gabriel Kreiman	 Betweenness: 99914.42	 in_degree: 28	 
+Afiliation: Professor, Children's Hospital, Harvard Medical School 
+Most cited paper: A gene atlas of the mouse and human protein-encoding transcriptomes. Cited by 3926 in 2004 
+GS profile: WxZ_6nsAAAAJ 
+Home page: http://kreiman.hms.harvard.edu/ 
+Kw: artificial intelligence. computational biology, computational neuroscience. 
+
+Seth Teller	 Betweenness: 97127.94	 in_degree: 25	 
+Afiliation: Professor, MIT EECS / CS & AI Lab 
+Most cited paper: Robust distributed network localization with noisy range measurements. Cited by 1284 in 2004 
+GS profile: I6sTssIAAAAJ 
+Home page: http://people.csail.mit.edu/teller 
+Kw: machine perception, mobile manipulation, field robotics, sensor networks, localization 
+
+James Glass	 Betweenness: 94289.90	 in_degree: 4	 
+Afiliation: MIT Computer Science and Artificial Intelligence Laboratory 
+Most cited paper: JUPlTER: a telephone-based conversational interface for weather information. Cited by 796 in 2000 
+GS profile: pfGI-KcAAAAJ 
+Home page: http://www.sls.csail.mit.edu/people/glass.shtml 
+Kw: speech and language processing 
+
+N. Siddharth	 Betweenness: 93246.73	 in_degree: 21	 
+Afiliation: Reader in Explainable AI, University of Edinburgh 
+Most cited paper: Learning disentangled representations with semi-supervised deep generative models. Cited by 289 in 2018 
+GS profile: V7D7hxMAAAAJ 
+Home page: http://www.iffsid.com/ 
+Kw: artificial intelligence, computer vision, robotics, natural language processing, machine learning 
+
+Lorenzo Rosasco	 Betweenness: 85570.36	 in_degree: 36	 
+Afiliation: MaLGa Machine Learning Genoa Center - Università degli Studi di Genova 
+Most cited paper: Holographic embeddings of knowledge graphs. Cited by 876 in 2016 
+GS profile: quJBh1EAAAAJ 
+Home page: http://web.mit.edu/lrosasco/www/ 
+Kw: machine learning 
+
