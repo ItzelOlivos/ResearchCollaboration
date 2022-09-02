@@ -7,7 +7,7 @@
   > python main.py --t c --p people.txt --e my_depth --o my_title
 
 Notes: 
-* The variable my_depth indicates the number of hops the scrapper can take. Eg, my_depth = 1 will collect the profiles of the collaborators of the users listed in people.txt and then will explore the profiles of the collaborators of these last profiles. WARNING: my_depth = 2 might be too ambitious collaborations grow exponentially!
+* The variable my_depth indicates the number of hops the scrapper can take. Eg, my_depth = 1 will collect the profiles of the collaborators of the users listed in people.txt and then will explore the profiles of the collaborators of these last profiles. WARNING: my_depth = 2 might be too ambitious, collaborations grow exponentially!
 * The variable my_title indicates the title of the files that the scrapper will generate.
 
  
