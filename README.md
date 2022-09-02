@@ -1,5 +1,7 @@
 # ResearchCollaboration
 
+This project is a web scrapper that collects data from Google Scholar and returns a network of collaboration.
+
 ============= To generate a new collaboration network ======================================= 
 1. Edit the file people.txt (here you can add the google scholar users of people working in a field of your interest)
 2. Type:
